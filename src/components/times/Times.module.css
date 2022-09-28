@@ -1,0 +1,20 @@
+.timesContainer{
+    display: flex;
+    justify-content: space-around;
+    text-align: center !important;
+}
+.left{
+    border-bottom: 20px solid #4395f3;
+    height: 30vh;
+    width: 30%;
+}
+.right{
+    border-bottom: 20px solid red;
+    height: 30vh;
+    width: 30%;
+}
+.center{
+    border-bottom: 20px solid orange;
+    height: 30vh;
+    width: 30%;
+}

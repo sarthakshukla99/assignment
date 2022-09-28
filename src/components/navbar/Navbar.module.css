@@ -1,0 +1,7 @@
+.navbarStyle{
+    background-image: linear-gradient(to right, rgb(255, 107, 171) 0%, rgb(64, 109, 255) 17%, rgb(0, 97, 216) 41%, rgb(234, 0, 255) 100%) !important;
+    color: white !important;
+    font-weight: 500 !important;
+    min-height: 98px !important;
+    font-size: larger !important;
+}
